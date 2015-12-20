@@ -3,6 +3,6 @@
  */
 public class Roman_A {
     public static int romanToInt(String s) {
-        return 0;
+        return 1;
     }
 }
